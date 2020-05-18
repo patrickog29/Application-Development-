@@ -1,0 +1,21 @@
+Invoice Number: 11731
+Customer Number: 23
+Payment Number: 89.0
+
+
+Invoice Number: 11732
+Customer Number: 65
+Payment Number: 19.0
+
+
+Invoice Number: 11733
+Customer Number: 75
+Payment Number: 64.0
+
+
+Invoice Number: 11735
+Customer Number: 28
+Payment Number: 27.0
+
+
+Total:           199.0
